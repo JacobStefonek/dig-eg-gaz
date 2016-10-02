@@ -1,0 +1,281 @@
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19">Enter today's date</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01">Enter issue date</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, JULY 13, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement"> 
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3"> <div type="item">
+<head>THE EGYPTIAN GAZETTE, MONDAY, APRIL 24, 1905.</head></div>
+<div type="item"> <head>THE DELCASSE INCIDENT.
+RESIGNATION WITHDRAWN.</head>
+<p>London, April 22.</p>
+<p>The news of M. Delcasse’s resignation has been received, in England with deep and universal regret.</p>  <p>(Reuter.)</p>
+<p>Paris, April 22.</p>
+<p>The Cabinet has asked M. Delcasse to re-consider his decision. M. Rouvier had a long interview with him yesterday evening. M. Delcasse will reply to-day and it is expected that he will withdraw his resignation.</p>   <p>(R.)</p>
+<p>Paris, April 22.</p>
+<p>M. Loubet has summoned M. Delcasse in order to endeavour personally to induce him to withdraw his resignation. M. Bienvenu-Martin, Minister of Public Instruction: has expressed his conviction that the matter will be arranged.</p>
+<p>(Later). M. Delcasse has withdrawn his resignation. He insisted that there must be complete harmony in the Cabinet on the subject of the foreign policy. He has received satisfactory assurances to this effect. (Reuter.)</p>
+<p>Paris, April 22.</p> 
+<p>On pressure from M. Loubet and his colleagues in the Ministry, M. Delcasse is to retain the portfolio of Foreign Affairs.</p> <p>(Havas.)</p>
+<p>Paris, April 23.</p>
+<p>The "Temps” says that it would have been  the worst of blunders to give the enemies of France in Morocco the satisfaction of M. Declasse's resignation.</p>  
+<p>It is positively affirmed here that the resignation had nothing to do with the neutrality complication.</p>   <p>(Reuter.)</p> </div>
+<div type="item">
+<head>RUSSIA
+PRESS ORGANISATION FORMED.</head>
+<p>St. Petersburg, April 22.</p>
+<p>A secret Congress composed of the representatives of 120 newspapers and reviews, which has been sitting for four days, has formed a Press organisation with political objects. (R.)</p>
+
+<p>MOSCOW BAKERS' STRIKE.</p>
+<p>Moscow, April 23.</p>
+<p>A strike of 15,000 bakers is taking place here: the price of bread has tripled. Disturbances are feared.</p> <p>(Reuter)</p></div>
+<div type="item">
+<head>CRETAN UNION.</head>
+<p>London, April 23.</p>
+<p>The Powers, replying to the Cretan Chamber, adhere to the decisions against the union. (R.)</p>
+<p>Athens, April 23.</p>
+<p>Replying to the Cretan appeal to support the union agitation; the Greek Government declares that, while the union is an aspiration of all Greeks, in view of the attitude of the Powers any further demonstration is useless. It, therefore emphatically refuses to encourage acts aiming to change the regime and says that the objectionable portions of the constitution can be amended by legal means.</p> <p>(Reuter.)</p></div>
+<div type="item">
+<head>THE ROYAL CRUISE.</head>
+<p>Philippeville, April 22.</p> 
+<p>The British Sovereigns are visiting the
+town.</p>   <p>(Havas.)</p>
+<p>Algiers, April 23.</p>
+<p>The British Sovereigns are visiting the town
+of Constantine.</p>  <p>(Havas.)</p></div>
+<div type="item">
+<head>GERMANY IN MOROCCO:</head>
+<p>Tangiers, April 23.</p>
+<p>The German mission is preparing to start for Fez. The tribes along the road are arranging great festivities in its honor.</p> <p>Reuter.)</p></div>
+<div type="item">
+<head>FRANCE AND SIAM.</head>
+<p>London, April 23.</p>
+<p>Reuter’s Agency learns from Bangkok that the Paris telegram regarding a hitch in the Franco-Siamese convention, mentioned on the 10th inst., is unfounded.</p>     <p>(Reuter.)</p>
+
+<p>FRENCH PARLIAMENTARY RECESS.</p>
+<p>Paris, April 22.</p> <p>The Chamber has adjourned till May 15.</p>
+<p>(Havas.)</p></div>
+<div type="item">
+<head>MONUMENT TO GAMBETTA.</head> <p>Paris, April 23.</p>
+<p>M. Loubet has gone to Bordeaux, where he will unveil the monument to Gambetta. (H.)</p></div>
+<div type="item">
+<head>LIMOGES STRIKE ENDED.</head>
+<p>Paris, April 22.</p>
+<p>The Limoges strike has ended. (Reuter.)</p> </div>
+<div type="item">    
+<head>DEATH OF RUSSIAN AMBASSADOR.</head>
+<p>Pekin, April 22.</p>
+<p>M. Lessar, the Russian Ambassador here, is dead.</p> <p>(Reuter.)</p></div>
+<div type="item">
+<head>EARTHQUAKE IN ENGLAND.
+VIOLENT SHOCK FELT IN MIDLANDS.</head>
+<p>London, April 23.</p>
+<p>A somewhat violent earthquake took place at Matlock, Doncaster, Scarborough and other places in the midlands and north early this morning.</p>              <p>(Reuter.</p>   </div>
+
+<div type="item"><head>LOCAL AND GENERAL</head>
+<p>Stray and Ownerless Dogs found in the Monsky district of Cairo during to-night and daybreak to-morrow will be poisoned by the police.</p>
+
+<p>Mr. Thubron's Misfortune.</p> <p>— Mr. Thubron’s famous auto-boat, ‘Trefle a quatre,” has been burned and scuttled in Monaco Harbour, during the trial for the races.</p>
+
+<p>The Cotton Worm.</p><p>—A number of members of the police force have had their leave stop-ped until August in order to be in readiness to cope with the cotton worm.</p>   
+
+<p>French Agency.</p><p>- M. delaBouliniere, French Diplomatic Agent, will probably leave for Europe towards the end of June. M. Witasse and M. Lecomte are going on leave at the end of this month.</p>
+
+<p>Egypt and Lancashire</p><p>- The March returns of the Board of Trade of our total shipments of Lancashire cotton goods show that Egypt absorbs 4 1/2 per cent, Turkey takes 5 1/2 per cent, and India 40 per cent.</p>
+
+<p>Bulkeley Post Office.</p> <p>- The postal authorities announce that from 1st proximo, the Bulkeley post-office will be admitted to the exchange of inland and foreign money orders, to the postal order service, and savings bank transactions.</p>
+
+<p>The Hellenic Community of Alexandria informs us that the drawing of the lottery in and of the Greek Hospital of our city took place yesterday, the winning numbers being 3165 and 1713 for the first and second prizes respectively.</p>
+
+<p>Explosives on the Canal.</p><p>—The Ministry of the Interior has sent to the Alexandria Gouvernorat a Ministerial order concerning cargoes of explosives on boats in the Mahmoudieh Canal. Boats with such cargoes must fly a yellow flag to distinguish them from other boats, and they must mour at a distance from dwellings, both for loading and unloading.</p>
+
+<p>The Ramleh Boulevard Murder.</p><p> — The Gouvernorat this morning handed over to the Greek Consulate-General the young man employed in a fruit-dealer’s shop in Ramieh-boulevard who killed another employe in the same shop a few months ago. The prisoner had been arrested as a local subject but has now produced documents proving his Hellenic nationality.</p>
+
+<p>The Heat of Saturday.</p><p>—The recent heat wave, which, fortunately, was of short duration, was greatly felt in Alexandria, where on Saturday the registered shade temperature reached 38 deg. Centigrade, or a shade over 100 deg. Fahrenheit. The night of Saturday was an exceedingly oppressive one, and at half-past nine o’clock an outdoor temperature of 91 deg. was registered, while indoors the thermometer stood at 77, necessitating a reversal of the usual practice of opening the windows to obtain a breath of fresh air. The temperature in other parts of Egypt may be seen by reference to our daily weather report. Compared with Cairo and many places in Upper Egypt, the heat was in proportion more excessive in Alexandria.</p>
+
+<p>Carlton Hotel, Bulkeley.</p><p> — Some time ago we announced that owing to the continual influx of visitors applying for accommodation at this fashionable hotel, which in many cases has to be refused on account of the limited number of rooms, the proprietor, Mr. Aquilina, intended to add to the building either another floor or two wings, in which way 20 more rooms will be obtained. There is also to be added a new and spacious dining-room capable of seating comfortably from 50 to 60 guests. We understand that those improvements are shortly to be taken in hand, and that precautions will be taken for the work to be done without any inconvenience being caused to either the visitors or the service. The hotel is open all the year round, and it is just as full during the tourist season as it is during the summer months.</p>
+
+<p>Cairo Evangelical Free Church.</p><p>—Recognition services in connection with the appointment to the permanent pastorate of the Rev. T. A. Cooper will bo held on Thursday, 27th inst. The induction of the pastor will take place at 4.30 p.m., in the German Church, Sharia El-Maghraby, by the Rev. J. C. Easter-brook (Caledonian Road Congregational Church, London) and the Rev. Dr. Leach (Harecourt Congregational Church, London, N.) The Rev. G. W. Williams (Baptist), Rev. T. Pate, Sheffield, and other ministers are expected to take part A conversazione will be held in the Hotel Villa Victoria during the evening. Several leading members of the Evangelical Free Church Council of England and other ministers will be present and give addresses. Solo and concerted music will be rendered by members of the choir and others.</p></div>
+<div type="item">
+<head>LORD MILNER'S ARRIVAL.
+GUEST OF LORD CROMER.
+(From our Correspondent).</head>
+<p>Surz, Sunday.</p>
+<p>Lord Milner and suite arrived at Suez yesterday afternoon at 1.30 by the Austrian Lloyd steamer "Koeber," and was met on board by the Governor of Suez. His lordship left this morning by the 7.30 train for Cairo, where he will remain for about 10 days at the British Agency.</p>
+<p>Lord Milner arrived by the 1.30 p.m. train yesterday at Cairo looking very well in spite of the trying heat of the last few days, which has been felt almost as severely along the Canal as in Cairo. Lord and Lady Cromer met Lord Milner at the station and after cordial greetings had been exchanged, drove with him to the British Agency.</p></div>
+<div type="item">
+<head>THE KHEDIVE.</head>
+<p>The Maieh Sanieh has officially informed the Alexandria Gouveruorat that the Khedive will arrive here from the Capital on Thursday, May 4, at 11.30 a.m., at Moharrem Bey terminus.</p>
+<p>Our Constantinople Correspondent states that Izzet Bey, Secretary of H.H. the Khedive, who went to Constantinople with Prince Mohamed Aiy, will stay there until the arrival of the Khedive.</p></div>
+<div type="item">
+<head>CAIRO WATER COMPANY.</head>
+<p>A Cairo correspondent writes:— The indifference of the Cairo Water Company during the heat wave we have had for the last four days deserves to be made public. At 5 p.m. to-day (Saturday) I rang up the company informing them that the supply to my house had been cut off  since 10 a.m. The prompt but calm reply was, “Vous n'etes pas le seul.",.. “(Cesta cause des tortes chaleurs.” Nor was there a promise of our quarter getting water soon... "peut-etre peudant la nuit; ou demain matin." Under the circumstances, it was hopeless to appeal to such utter indifference. I bad not bad any ice for three days either, although I had written and telephoned to the Ice Company. I therefore went in person to the Ice Company’s office, but I soon realised the situation when I saw the number of idle carts and men waiting with empty bags. The situation was still more strongly impressed upon me when I heard the telephone messages. Finally, when I got a hearing, the reply was, ‘ Monsieur ; e'est la laute de la Cie des Eaux" etc. I did not stay there much longer; the air was too hot all round.</p></div>
+<div type="item">
+<head>SUEZ CANAL BLOCKED.
+(From our Correspondent).</head>
+<p>Suez, Sunday.</p>
+<p>The Canal was blocked from noon yesterday till 2 o’clock this morning, on account of the “Clan Cumming” and the Portuguese gun-boat “Diu” running aground near 152 station in the Canal. The former vessel came off shortly after, while the latter was refloated by the assistance of the Canal Company’s tug “Titan.” All traffic was stopped for over 12 hours, and several collisions took place in the Canal.</p></div>
+<div type="item">
+<head>NAVAL NOTES.</head>
+<p>H.M. battleship “Barfleur” (Captain Leslie Stuart, C.M.G., M.V.O.) arrived at Port Said yesterday morning, She is returning from Colombo to Malta with the crew of H.M.S. “Vengeance.” The ‘‘Barfleur” left at 4.30 p.m. yesterday.</p>
+<p>H.M. cruiser “Amphitrite” (Captain Charles Windham, C.V.O.,R.D.C.), from China, recently relieved by H.M.S. “Diadem,” has entered the Canal homeward bound.</p>
+
+<p>STEAMER MOVEMENTS.</p>
+<p>The Moss liner “Seti” sailed from Liverpool on Thursday afternoon, and is due here about the 4th proxo. with passengers, mails, and general cargo.</p>
+<p>The S.S. “City of Oxford," of the Papayanni Line, left Tangier yesterday afternoon and is due at this port on the 31st inst. with mails and passengers.  </p>
+<p>The Moss liner “Moeris” sailed yesterday afternoon for Hull with passengers and general cargo.</p>
+<p>The S.S. “Ocean Prince" left Manchester on Friday last with passengers and general cargo for Malta and Alexandria.</p>
+<p>The S.S. “Carib Prince” arrived in Manchester from Alexandria on Friday last.</p>
+<p>The Ellerman S.S. "City of Venice” arrived at Liverpool on Friday.</p>
+<p>The Ellerman S.S. "Alexandria" arrived here on Sunday morning from Fiume.</p>
+<p>The Ellerman S.S. ‘‘Anatolia” sails hence for Liverpool on Wednesday.</p>
+<p>The Westcott S.S. “Perim” is expected today from Antwerp, London, and Malta. </p></div>
+<div type="item">
+<head>TYROL</head><p>-Weissenstein Castle 3410 ft. First-class private hotel near Windisch-Matrei; Station, Liens (reached from Venice or Trieste). Good mountaineering centre. Tennis. Fishing, best June and September. Prospectuses and Photographs, “ Egyptian Gazette ” office, Cairo.</p>
+<p>8565 48 84</p></div>
+<div type="item">
+<head>ARISTON AERATED WATERS
+Guaranteed Distilled</head>
+<p>ALEXANDRIA: 7, Rue de la Poste. 
+CAIRO: Opposite 134 Tramways Co. Works, Sharia Sahal, Kaer-gl-Nil.</p></div>
+<div type="item">
+<head>BANDMANN OPERA COMPANY.
+‘‘A COUNTRY GIRL."</head>
+<p>Saturday night was torrid : the khamseen blew as vigorously as ever and the collapse of some of the actors and many of the audience would have astonished no one. None the less the Khedivial Opera House at Cairo was crowded, and the actors and actresses survived a terrific heat and an inconsiderate number of encores, though it would be carrying compliment too for to say that none of the voices remained unaffected by the heat, especially towards the end of the first act.</p>
+<p>“A Country Girl” is perhaps the weakest of recent Edwardesian musical plays. The plot is naively simple, and the music, while including a few catchy airs, is of no particular merit, and as the piece was written for a group of well-known actors and actresses,— we need only mention Mr. Huntley Wright, Mr. Rutland Barrington, and Miss Evie Green,— it is obvious that it can only be made a success by sheer “ go ’’ on the part of the performers. Given the requisite amount of vigour and voice on their part, good staging and pretty dresses, the most childishly simple piece will attain a considerable success, and if critics urge that the music or the plot or both are weak, the answer is obvious. The Englishman as a rule regards theatre-going as a sedative: he wants to hear something that will allay and not stimulate thought, and in the meantime please his eye and tickle his humour, and for such purpose the “musical comedy" is a most effective weapon. It follows that in the average musical comedy— we are not discussing Gilbert and Sullivan— the acting is everything, and the actors who make the piece a success are paid the sincere compliment of painstaking and often successful imitation by all who follow them. The brief life of such pieces, and the fact that a popular favorite sets the fashion, make it hopeless to expect an original reading of a part, and with this we have no quarrel; all of us have not the chance hearing Miss Erie Greene or Mr. Rutland Barrington in their latest successes, but when a good travelling company visits us, we have at least the satisfaction of watching a good imitation of their methods.</p>
+<p>So on Saturday night Mr. Sinclair Cotter, modelling his style on that of Mr. Huntley Wright, kept the house hugely amused, showed an activity with the thermometer at 94 % that would have done credit to one who had spent a lifetime under the Equator, and responded to encores which were really heartless with the utmost good nature and readiness. Mr. Lester, as the Rajah of Bhong, had evidently watched Mr. Rutland Barrington, and Mr. B. Roberts gave a capital rendering of Sir Joseph Verity. Geoffrey Chaltoner's part does not give much scope for action; no doubt Mr. O’Connor did his best and his singing was decidedly good; his voice carries well, and he never let himself go at the wrong moment. Miss Corlass and Miss Carkeeh were both a little out of voice at the start, and the same remark applies to Miss Marie Elba (The Princess), but there was every excuse for that, and they acted and looked well, especially Miss Corlass, whose enunciation, by the way, was particularly clear and graceful Miss Morra (Mme. Sophie) also made a very pleasant impression on the audience, and her "Chicken Dance" with Barry was capitally done. Before we end these notes we must not forget to mention that “Lady Anchestor,” whose name we cannot find on the programme, sang us “Scenes that are brightest," an interpolation from Maritana, and sang it charmingly.</p></div>
+<div type="item">
+<head>PERSONAL AND SOCIAL.</head>
+<p>Sir Edward and Lady Zohrab left for Europe on Saturday by the Austrian Lloyd steamer.</p>
+
+<p>M. Szarvasy, Austro-Hungarian Vice-Consul at Alexandria, left for Europe on leave on Saturday.</p>
+
+<p>Khalil Hamada Pasha, local Director of Customs, has returned from Cairo.</p>
+
+<p>Mr. James van Millingen, M.D., of the Indian medical service, Bombay, who was formerly in the Sanitary Department at Cairo, is staying at the Windsor Hotel, Alexandria, for a few days before proceeding to Scotland on leave.</p></div>
+<div type="item">
+<head>SPORT AND PLAY.
+A. S. C. GOLF.</head>
+<p>The Golf Steward asks us to state that the matches that have been drawn for the different events are posted up at the Sporting Club. The number of strokes to be given in each match are written opposite the name of the player receiving them. When a match is finished the winner should erase the name of his opponent. The first rounds in the challenge cup, handicap match play, and handicap foursomes must be played off before May,3.</p>  
+<p>The first round of the driving competition will take place to-morrow (Tuesday) from the fourth tee. 3 p.m. till dark carry and ran ; breadth limit 80 yards. The handicap stroke competition will be played off on Saturday, 29th inst.</p></div>
+<div type="item">
+<head>Windsor Pharmacy
+Kasr-el-Nil Square, CAIRO.
+BEST CHEMICAL PRODUCTS.</head> <p>English and Foreign Prescriptions carefully prepared by Certified Chemists.
+ALWAYS IN STOCK LARGE ASSORTMENT OF ENGLISH PROPRIETARY ARTIKLES AND SPECIALITIES.</p></div>
+<div type="item">
+<head>ALEXANDRIA MUNICIPALITY</head>
+<p>The following is the ordre de jour oi Wednesday's meeting of the Municipal Commission :—</p>
+<p>1.   Communications diverses.</p>
+<p>a)   Lettres ministdrielles des 29 Mars et 4 Avril 1905, et avis du Comite do Contentieux, an sujet du projet de regiement pour la vente des terrains de la Municipalite.</p>
+<p>b)   Lettre ministenelle dee 8 et 18 Avril 1905, relatives a la reglementation genfrale de la taxe sur lee viltures et bestiaur.</p>
+<p>c) Lettre ministerielle da 3 Avril 1905 an sujet du deplacement de la prise d’eau do Canal Mahmoudieh.</p>
+<p>d)   Depeche ministerielle du 6 Avril 1905, approuvant la deliberation prise par la Commission relative a la reorganisation d'une par-tie dm services.</p>
+<p>e)   Lettre ministerielle da 12 Avril 1905, communiquant le reglement sur la rage, mo-
+difie.</p>
+<p>2.   Deman des de credits.</p>
+<p>a)   L.B. 600 pour le jardin Nouzha (Delegation du 28 Mara 1905).</p>
+<p>b)   LE. 393 pour gratifications aux percep-. tears (Delegation du 28 Mare 1905).</p>
+<p>e) LE. 4879 pour la confection des neu- rentes (Delegation des 28 Man et 4 Avril 1905).</p>
+<p>d)   . LE 1000 pour la construction d'une canalisation en maconnerie, en vuede i’eeonle- ment des eaux du lavage des filtres (Delegation du 18 Avril 1905).</p>
+<p>e)   Allocation a la famille de M. Amie Bey.</p>
+<p>8. Rapport da Comite da Contentienx, au
+sujet d'amendes apptiquees a certains fournis-sears.</p>
+<p>4. Comptas de'tailles de 1904.</p>
+<p>6. Decision du Comite special, relative a l'entente conclue avec M. Andre pour la creation dee parcs.</p>
+<p>6.   Accord avec l’entreprise Ahmagia, an
+extraites des carrieres.</p>
+<p>7.   Avis dn Comite des Travanx Publics, on sujet du badigeonnage des matrons (Detego-tion da 4 Avril 1905).</p>
+<p>8.   Projet de reglement interiear.</p>
+<p>9.   Affaires juditjaires.</p></div>
+<div type="item">
+<head>EASTER DAY SERVICES.
+ALL-SAINTS’ CHURCH, CAIRO.</head>
+<p>The five services on Easter Day at All Saints’ Church, Cairo, were well attended. The clergy who officiated were Very Rev. Dean Batcher, D.D., Rev. Thompson Burns, Rev. Reunie Macinnes, and Rev. Temple Gairdner. Dean Batcher preached at both morning and evening services, taking his text in the morning from Matthew 28.6 “For He is risen.” There were 258 communicants. The music was excellent. Indeed, Mr. Peacock's well drilled choir have rarely been heard to greater advantage. Barnby's anthem “Awoke my glory,” was beautifully rendered, and the familiar Easter hymns were well sung by the choir and heartily joined in by the congregation. The church was decorated with palms, and the altar and lectern were ornamented with lilies and arams.</p></div>
+<div type="item">
+<head>ST. MARK'S CHURCH, ALEXANDRIA.</head>
+<p>Large congregations attended the services yesterday, which were very bright and hearty. To the choir, who rendered so ably the Anthem, Tours’ services for matin, holy com-munion, and evensong, great credit is dee, for daring the last six weeks practises for the rendering of the “Holy City,” have required the expendition of much time and labour, in addition to what was necessary for maintaining the standard of Sunday, and Easter Day services.</p>
+<p>The following sent flowers and plants:— Mines. Poster, Crafton, Picton, Rowden, Callender, Steinschneider, Dickson, Macgregor, Miss Batcheller, Mrs. Ebell, Mrs. Cornish, Non-Commissioned officers of Mounted Police, etc., etc. The following assisted in decorating the church and chapel, which presented a very pleasing and festal appearance. Mmes. Ayne, Roberts Steinschneider, Ward, Miles. Batehel-ler, Mun Gavin, Milburn Roberts, Laura Talbot.</p>
+<p>April 23, was St. George’s Day, Patron Saint of England, and we noticed a fine St. George's Flag flying from a flag-staff situated at the west end of the church.</p></div>
+<div type="item">
+<head>ALL SAINTS’, RAMLEH.</head>
+<p>The church was very prettily decorated and the congregations at 7.30 a.m., 8.30 am., and 11 am were good. The following sent flowers,' plants, etc.: Mmes. Dotting, G. A. Williams, S H. Carver, P. W. Carver, R. J. Moss, Allen, Alderson, Briscoe, and Parkinson. The decorations were carried out by Mmes. W. R Williams, Parkinson, Ward, and Miles. Alder-son, Allen. Atkins, Todd, Collins, Lang, Anderson, Harbord, Carver.</p></div>
+<div type="item">
+<head>ST. MARK'S CHURCH. JUBILEE OF CONSECRATION.</head>
+<p>The following are tomorrow’s services:—
+8. am. Holy Communion.
+11. am. Matins and Address.
+(Preacher, Rev. F.B N. Norman-Lee, S.C.P. 5 p.m.. Evensong in Chapel 5.80 p.m. Unveiling of the Tablet by the Consul-General, and Dedication thereof \by the Chaplain.</p>
+<p>6.45 p.m. A rendering; by an augmented Choir, of Goal’s “Holy City.” The Cantata will take 1 1/4 hours to render.</p>
+<p>Of course the church is open to every one who may wish to be present.
+Immediately after the commencement of the “Holy City” all vacant seats are free.</p> <p>There are some 60 sittings in the church always free.
+ It is proposed to present to those who are present at the unveiling and dedication, a printed card recording the inscription on the tablet.</p>
+<p>At the rendering of the “Holy City” a collection will be made to cover the expense of buying the music, hire of piano, and other costs. £8 is required to cover all expenses.</p></div>
+<div type="item">
+<head>EGYPTIAN COTTON MILLS
+WINDING UP SUGGESTED.</head>
+<p>The sixth annual general meeting of the
+shareholders of the Egyptian Cotton Mills Ltd. was held on the 14th inst. in Wineheiter House, Old Broad-street, London, RC.</p> <p>The Secrecy (Mr. H. Spedding) read the notice convening to meeting and proceeded to say that he had-to report that the Chairman, Mr. Isidor Ellhegan was absent from the owing to illness. - The other directors were in Cairo, and nose of their were therefoe, available. It was accordingly necessary the appoint a Chairman of the meeting, and, therefore he had to move, as a shareholder, that Mr. Thomas Stoker, a former director, should take the chair.</p>
+<p>Mr. T. Sheppard seconded the motion, which was agreed to.</p>    
+<p>Mr. Thomas Stoker, having taken the chair, said that this was an honor which had been thrust upon him. Whan he came to the meeting that day he had no idea whatever that he should be asked to assume the pest and dignity of Chairman. As it appeased there was no other member of the company available for the post, he bad agreed to occupy the position in order to get through - the formal business of the meeting. Owing to the unfortunate illness of Mr. Ellbogen, and to the circumstances that the other directors were all resident in Cairo, the Board was entirely unexpected, and he, himself; was set in a position to other any remarks or, he feared, to answer any interrogatories. He could, therefore, only undertake to dispatch the merely routine buisness for which the meeting had been called and which they had heard read by the secretary in the notices convening the meeting. The first matter that fell upon him to do was to call upon toe secretary to read the certificate of accounts by the auditors.</p>
+<p>The Secretary then read the auditors’ certificate, which was as follows: - "We report to the shareholders that we have examined the above balance-sheet, with the booked vouchers of the company in England, and with the audited balance-sheet received from Egypt, and that it is, in our opinion, properly drawn up so as to exhibit a true and correct view of the state of the company’s affairs, as shown by such books and audited balance-sheet. No provision has been made for depreciation upon plant and machinery. — (Signed) Price Waterhouse and Co.”</p>
+<p>The Chairman said the next buisness was to move : "That the directors’ report and balance. sheet for the year ended 30th September, l904, be adopted,” and he had pleasure in moving that resolution.</p>
+<p>Mr. G. W. Dennis said he rose,  not for the purpose of seconding the resolution, but to suggest, that an expression should go forth from this meeting to the effect that this company be wound up.</p>   
+<p>The Chairman said Mr. Dennis would be more in order if he permitted the resolution he had moved to be seconded, and after wards he could address the meeting.</p>
+<p>Mr. Spedding said he would second the motion.</p>
+<p>The Chairman remarked that they were now ready to hear any remarks from shareholders.</p>
+
+<p>SUGGESTION TO WIND UP.</p>
+<p>Mr. Dennis said he had to propose, although be did not know if anyone would second it, that this meeting considered it advisable to wind up the company, seeing the disastrous state in which the company at present stood.</p>
+<p>The Chairman was afraid that Mr. Dennis'. resolution, though it might be a proper matter for discussion, was out of order, in as much as he could not put it to to the meeting, no notice having been given of it This was merely an ordinary meeting, conveyed for special purposes.
+Such a resolution, having for its object the winding-op of the company, would require an extraordinary meeting and a special resolution.</p>    
+<p>Mr. Dennis said that what he desired was an expression of opinion on the part of the shareholders for the information of the absent directors.  </p>
+<p>Mr. Sheppard said that if Mr. Dennis' motion was in order, he should, be very happy to second it.</p>
+<p>The Chairman repeated that no such resolu-
+tion could bo entertained, but an expression of opinion might go forth from the shareholders as suggested by Mr. Dennis. He had taken the advice of the solicitor of the company, who was present, and his views entirely concurred with those of himself—namely that they could only entertain Mr. Dennis' suggestion as an expression of opinion of the shareholders present.</p>
+<p>Mr. Dennis said he would put it to the meeting as to whether it was the generalopinion that the company be wound up.</p>
+<p>On a show of hands being called for, it was found that Mr. Dennis was supported Mr. Sheppard only.</p>
+<p>The Chairman asked if any other share-holders desired to make any remarks, and proceeded to say that the vote which Mr. Dennis had called for committed the meeting to nothing. He would now put the resolution to the meeting.</p><p>The resolution was then put and carried.</p><p> The Chairman said the next matter before them was the election of directors, concerning which the secretary would make an announcement.</p>
+<p>The Secretary then stated that the present directors, Mr. Isidor Ellborgen, Mr. S. Arbib,Mr.F.Back,Mr.S.R. Cookson and Mr. M. Roemer, all retired at this meeting in accordance with the company's articles of association, but all of them were eligible and offered themselves for re election as directors.</p>
+<p>Mr. Dennis at this point asked if the Chair
+man had adopted  his suggestion as to the winding-up of the company.</p>
+<p>The Chairman said he had no doubt the suggestion of the two members present would be communicated to the directors as an expression of opinion. They had been informed by the secretary that the present five members of the</p></div></div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
